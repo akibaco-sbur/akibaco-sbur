@@ -11,18 +11,17 @@
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=blender,unity,c,cs,py,eclipse,figma,MATLAB" alt="Blender, Unity, C, C#, Python, Eclipse, Figma, MATLAB">
+<img src="https://skillicons.dev/icons?i=blender,unity,c,cs,py,eclipse,figma,arduino,matlab" alt="Blender, Unity, C, C#, Python, Eclipse, Figma, Arduino, MATLAB">
 
 ## My Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true">
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true">
 </picture>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact">
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact">
 </picture>
