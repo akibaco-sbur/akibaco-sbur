@@ -16,12 +16,12 @@
 ## My Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true&card_width=450&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true&card_width=450">
+  <img alt="GitHub Stats" width="450" height="180" src="https://github-readme-stats.vercel.app/api?username=akibaco-sbur&show_icons=true&card_width=450">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact">
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact&card_width=450&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact&card_width=450">
+  <img alt="Top Languages" width="450" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibaco-sbur&layout=compact&card_width=450">
 </picture>
