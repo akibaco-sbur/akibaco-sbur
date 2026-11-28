@@ -7,10 +7,11 @@
 ## About Me
 
 3DCG作ったりインタラクティブアート作ってます。ハード制作、設計もします。
+上のお化けは
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=blender,unity,c,cs,py,eclipse,figma" alt="Blender, Unity, C, C#, Python, Eclipse, Figma">
+<img src="https://skillicons.dev/icons?i=blender,unity,c,cs,py,eclipse,figma,MATLAB" alt="Blender, Unity, C, C#, Python, Eclipse, Figma, MATLAB">
 
 ## My Stats
 
